@@ -231,7 +231,7 @@ The reason for this is that the autopatcher will assume that you will be using t
 
 ## Keyboard, Mouse and Trackpad not working in installer or after update
 
-For Macs using legacy USB 1.1 controllers, OpenCore Legacy Patcher can only restore support once it has performed root volume patches. Thus to install macOS, you need to hook up a USB hub between your Mac and Keyboard/Mouse.
+For Macs using legacy USB 1.1 controllers, OpenCore Legacy Patcher can only restore support once it has performed root volume patches. Thus to install macOS, you need to hook up a USB hub between your Mac and Keyboard/Mouse. Another way is, if you have a rooted phone, use [USB HID Client](https://github.com/Arian04/android-hid-client) temporarily
 
 ::: warning Note
 
